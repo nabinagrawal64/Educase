@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-rubik {
+    font-family: 'Rubik';
+    src: url('public/static/Rubik-Regular.ttf') format('woff2');
+}
+
+
+
