@@ -1,3 +1,6 @@
+import logo from "../assets/Ellipse-114.png"
+import camera from "../assets/Group-1585.png"
+
 const Profile = () => {
     return (
         <div className="flex flex-col text-[#1D2226] font-rubik h-screen">
@@ -13,13 +16,13 @@ const Profile = () => {
                 {/* image */}
                 <div className="relative">
                     <img
-                        src="src/assets/Ellipse-114.png"
+                        src={logo}
                         alt="profile"
                         className="size-[76px] rounded-full object-cover"
                     />
                     <div className="absolute bottom-0 right-0 w-5 h-5 bg-[#6C47FF] rounded-full flex items-center justify-center">
                         <img
-                            src="src/assets/Group-1585.png"
+                            src={camera}
                             className="size-[22px] text-white"
                         />
                     </div>
