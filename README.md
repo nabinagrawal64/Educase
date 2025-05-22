@@ -14,8 +14,6 @@ A mobile-focused React UI project that replicates the PopX login and account set
   - Paragraph with styled text
 - 🔹 **Dotted Divider** component to visually separate sections
 
-## 📷 Screenshots
----
 
 ## 🛠️ Tech Stack
 
