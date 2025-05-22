@@ -13,13 +13,13 @@ const Profile = () => {
                 {/* image */}
                 <div className="relative">
                     <img
-                        src="public/Ellipse-114.png"
+                        src="src/assets/Ellipse-114.png"
                         alt="profile"
                         className="size-[76px] rounded-full object-cover"
                     />
                     <div className="absolute bottom-0 right-0 w-5 h-5 bg-[#6C47FF] rounded-full flex items-center justify-center">
                         <img
-                            src="public/Group-1585.png"
+                            src="src/assets/Group-1585.png"
                             className="size-[22px] text-white"
                         />
                     </div>
