@@ -1,12 +1,48 @@
-# React + Vite
+# PopX React Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A mobile-focused React UI project that replicates the PopX login and account settings interface using **React**, **Tailwind CSS**, and **React Hook Form**.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ **Mobile-First Design** 
+- 🔐 **Login UI** with:
+  - Floating labels
+  - Disabled login button until inputs are filled
+- 👤 **Account Settings UI** with:
+  - Profile image and edit icon
+  - User information display
+  - Paragraph with styled text
+- 🔹 **Dotted Divider** component to visually separate sections
 
-## Expanding the ESLint configuration
+## 📷 Screenshots
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React** (via Vite)
+- **Tailwind CSS** for styling
+- **React Hook Form** (for form handling)
+
+---
+
+---
+
+## 📦 Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/nabinagrawal64/Educase.git
+cd educase
+```
+### 2. Install Dependency
+
+```bash
+npm install
+```
+### 3. Start the Development Server
+
+```bash
+npm run dev
+```
+
